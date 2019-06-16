@@ -1,5 +1,2 @@
-message = "Hello, Python world!"
-print(message)
-
-message = "Hello, Python Crash Course world!"
+message = "Python is an easy language to learn!"
 print(message)
